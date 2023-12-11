@@ -8,7 +8,11 @@ const buttons = [
     {
     'value': 'ENCOMENDAR',
     'link':'https://wa.me/5582988287425?text=ol%C3%A1%2C+desejo+encomendar+um+delicioso+Chocopriccio%21'
-    }
+    },
+    {
+        'value': 'INSTAGRAM',
+        'link':'https://www.instagram.com/doce.capricciodoceriafit'
+        }
 ]
 
 buttons.map((item)=>{
